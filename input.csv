@@ -1,0 +1,1974 @@
+1,St Just,Cornwall,England
+2,Penzance,Cornwall,England
+3,Marazion,Cornwall,England
+4,Hayle,Cornwall,England
+5,St Ives,Cornwall,England
+6,Camborne,Cornwall,England
+7,Redruth,Cornwall,England
+8,Penryn,Cornwall,England
+9,Falmouth,Cornwall,England
+10,Helston,Cornwall,England
+11,Truro,Cornwall,England
+12,Mevagissey,Cornwall,England
+13,St Austell,Cornwall,England
+14,St Blazey,Cornwall,England
+15,Lostwithal,Cornwall,England
+16,Fowey,Cornwall,England
+17,Looe,Cornwall,England
+18,Torpoint,Cornwall,England
+19,Saltash,Cornwall,England
+20,Callington,Cornwall,England
+21,Liskeard,Cornwall,England
+22,Bodmin,Cornwall,England
+23,Newquay,Cornwall,England
+24,Padstow,Cornwall,England
+25,Wadebridge,Cornwall,England
+26,St Columb Major,Cornwall,England
+27,Camelford,Cornwall,England
+28,Launceton,Cornwall,England
+29,Bude,Cornwall,England
+30,Hugh Town,Cornwall,England
+31,Plymouth,Devon,England
+32,Plympton,Devon,England
+33,Ivybridge,Devon,England
+34,Modbury,Devon,England
+35,Kingsbridge,Devon,England
+36,Salcombe,Devon,England
+37,Dartmouth,Devon,England
+38,Brixham,Devon,England
+39,Torquay,Devon,England
+40,Totnes,Devon,England
+41,South Brent,Devon,England
+42,Buckfastleigh,Devon,England
+43,Ashburton,Devon,England
+44,Newton Abbot,Devon,England
+45,Teignmouth,Devon,England
+46,Princetown,Devon,England
+47,Tavistock,Devon,England
+48,Exmouth,Devon,England
+49,Exeter,Devon,England
+50,Topsham,Devon,England
+51,Bovey Tracey,Devon,England
+52,Chudleigh,Devon,England
+53,Moretonhampstead,Devon,England
+54,Chagford,Devon,England
+55,Okehampton,Devon,England
+56,Hatherleigh,Devon,England
+57,Holsworthy,Devon,England
+58,Great Torrington,Devon,England
+59,Chulmleigh,Devon,England
+60,North Tawton,Devon,England
+61,Crediton,Devon,England
+62,Tiverton,Devon,England
+63,Cullompton,Devon,England
+64,Ottery St Mary,Devon,England
+65,Cranbrook,Devon,England
+66,Budleigh Salterton,Devon,England
+67,Hartland,Devon,England
+68,Bideford,Devon,England
+69,Northam,Devon,England
+70,Appledore,Devon,England
+71,Barnstaple,Devon,England
+72,Braunton,Devon,England
+73,Ilfracombe,Devon,England
+74,Lynton,Devon,England
+75,South Molton,Devon,England
+76,Sidford,Devon,England
+77,Axminster,Devon,England
+78,Lyme Regis,Dorset,England
+79,Bridport,Dorset,England
+80,Beaminster,Dorset,England
+81,Sherborne,Dorset,England
+82,Stalbridge,Dorset,England
+83,Weymouth,Dorset,England
+84,Chickerell,Dorset,England
+85,Dorchester,Dorset,England
+86,Bere Regis,Dorset,England
+87,Wareham,Dorset,England
+88,Swanage,Dorset,England
+89,Poole,Dorset,England
+90,Wimborne Minster,Dorset,England
+91,Ferndown,Dorset,England
+92,West Moors,Dorset,England
+93,Verwood,Dorset,England
+94,Blandford Forum,Dorset,England
+95,Sturminster Newton,Dorset,England
+96,Gillingham,Dorset,England
+97,Minehead,Somerset,England
+98,Watchet,Somerset,England
+99,Dulverton,Somerset,England
+100,Wiveliscombe,Somerset,England
+101,Wellington,Somerset,England
+102,Taunton,Somerset,England
+103,Bridgwater,Somerset,England
+104,Highbridge,Somerset,England
+105,Langport,Somerset,England
+106,Somerton,Somerset,England
+107,Street,Somerset,England
+108,Glastonbury,Somerset,England
+109,Burnham on Sea,Somerset,England
+110,Shepton Mallet,Somerset,England
+111,Castle Cary,Somerset,England
+112,Yeovil,Somerset,England
+113,Bruton,Somerset,England
+114,Wincanton,Somerset,England
+115,Crewkerne,Somerset,England
+116,Ilminster,Somerset,England
+117,Chard,Somerset,England
+118,Wells,Somerset,England
+119,Frome,Somerset,England
+120,Midsomer Norton,Somerset,England
+121,Radstock,Somerset,England
+122,Bath,Somerset,England
+123,Keynsham,Somerset,England
+124,Nailsea,Somerset,England
+125,Weston super Mare,Somerset,England
+126,Axbridge,Somerset,England
+127,Mere,Wiltshire,England
+128,Warminster,Wiltshire,England
+129,Westbury,Wiltshire,England
+130,Trowbridge,Wiltshire,England
+131,Amesbury,Wiltshire,England
+132,Tidworth,Wiltshire,England
+133,Ludgershall,Wiltshire,England
+134,Wilton,Wiltshire,England
+135,Salisbury,Wiltshire,England
+136,Bradford on Avon,Wiltshire,England
+137,Corsham,Wiltshire,England
+138,Chippenham,Wiltshire,England
+139,Calne,Wiltshire,England
+140,Devizes,Wiltshire,England
+141,Melksham,Wiltshire,England
+142,Marlborough,Wiltshire,England
+143,Royal Wootton Basset,Wiltshire,England
+144,Swindon,Wiltshire,England
+145,Highworth,Wiltshire,England
+146,Cricklade,Wiltshire,England
+147,Malmesbury,Wiltshire,England
+148,Yarmouth,Isle of Wight,England
+149,Newport,Isle of Wight,England
+150,Ryde,Isle of Wight,England
+151,Brading,Isle of Wight,England
+152,Sandown,Isle of Wight,England
+153,Shanklin,Isle of Wight,England
+154,Christchurch,Hampshire,England
+155,Bournemouth,Hampshire,England
+156,New Milton,Hampshire,England
+157,Ringwood,Hampshire,England
+158,Fordingbridge,Hampshire,England
+159,Lyndhurst,Hampshire,England
+160,Totton,Hampshire,England
+161,Hythe,Hampshire,England
+162,Lymington,Hampshire,England
+163,Romsey,Hampshire,England
+164,Southampton,Hampshire,England
+165,Chandler's Ford,Hampshire,England
+166,Eastleigh,Hampshire,England
+167,Hedge End,Hampshire,England
+168,Bishop's Waltham,Hampshire,England
+169,Fareham,Hampshire,England
+170,Stubbington,Hampshire,England
+171,Lee on the Solent,Hampshire,England
+172,Gosport,Hampshire,England
+173,Portsmouth,Hampshire,England
+174,Waterlooville,Hampshire,England
+175,Havant,Hampshire,England
+176,Mengham,Hampshire,England
+177,Emsworth,Hampshire,England
+178,Petersfield,Hampshire,England
+179,Winchester,Hampshire,England
+180,New Alresford,Hampshire,England
+181,Stockbridge,Hampshire,England
+182,Bordon,Hampshire,England
+183,Andover,Hampshire,England
+184,Whitchurch,Hampshire,England
+185,Basingstoke,Hampshire,England
+186,Hook,Hampshire,England
+187,Fleet,Hampshire,England
+188,Yateley,Hampshire,England
+189,Blackwater,Hampshire,England
+190,Farnborough,Hampshire,England
+191,Aldershot,Hampshire,England
+192,Alton,Hampshire,England
+193,Abingdon,Berkshire,England
+194,Didcot,Berkshire,England
+195,Wantage,Berkshire,England
+196,Faringdon,Berkshire,England
+197,Wallingford,Berkshire,England
+198,Reading,Berkshire,England
+199,Thatcham,Berkshire,England
+200,Newbury,Berkshire,England
+201,Wokingham,Berkshire,England
+202,Bracknell,Berkshire,England
+203,Ascot,Berkshire,England
+204,Windsor,Berkshire,England
+205,Maidenhead,Berkshire,England
+206,Chichester,Sussex,England
+207,Bognor Regis,Sussex,England
+208,Felpham,Sussex,England
+209,Littlehampton,Sussex,England
+210,Arundel,Sussex,England
+211,Petworth,Sussex,England
+212,Midhurst,Sussex,England
+213,Billingshurst,Sussex,England
+214,Horsham,Sussex,England
+215,Crawley,Sussex,England
+216,East Grinstead,Sussex,England
+217,Crowborough,Sussex,England
+218,Uckfield,Sussex,England
+219,Haywards Heath,Sussex,England
+220,Burgess Hill,Sussex,England
+221,Steyning,Sussex,England
+222,Worthing,Sussex,England
+223,Shareham by Sea,Sussex,England
+224,Portslade by Sea,Sussex,England
+225,Hove,Sussex,England
+226,Brighton,Sussex,England
+227,Peacehaven,Sussex,England
+228,Newhaven,Sussex,England
+229,Seaford,Sussex,England
+230,Lewes,Sussex,England
+231,Polegate,Sussex,England
+232,Hailsham,Sussex,England
+233,Heathfield,Sussex,England
+234,Robertsbridge,Sussex,England
+235,Rye,Sussex,England
+236,Winchelsea,Sussex,England
+237,St Leonards,Sussex,England
+238,Hastings,Sussex,England
+239,Battle,Sussex,England
+240,Bexhill on Sea,Sussex,England
+241,Eastbourne,Sussex,England
+242,Haslemere,Surrey,England
+243,Godalming,Surrey,England
+244,Farnham,Surrey,England
+245,Guildford,Surrey,England
+246,Frimley,Surrey,England
+247,Lightwater,Surrey,England
+248,Egham,Surrey,England
+249,Addlestone,Surrey,England
+250,Chertsey,Surrey,England
+251,Woking,Surrey,England
+252,Leatherhead,Surrey,England
+253,Dorking,Surrey,England
+254,Horley,Surrey,England
+255,Reigate,Surrey,England
+256,Redhill,Surrey,England
+257,Oxted,Surrey,England
+258,Caterham,Surrey,England
+259,Warlingham,Surrey,England
+260,Coulsdon,Surrey,England
+261,Banstead,Surrey,England
+262,Epsom,Surrey,England
+263,Cobham,Surrey,England
+264,Esher,Surrey,England
+265,Walton on Thames,Surrey,England
+266,Croydon,Surrey,England
+267,Carshalton,Surrey,England
+268,Sutton,Surrey,England
+269,Kingston upon Thames,Surrey,England
+270,Wimbledon,Surrey,England
+271,Tooting,Surrey,England
+272,Richmond,Surrey,England
+273,Putney,Surrey,England
+274,Wandsworth,Surrey,England
+275,Clapham,Surrey,England
+276,Brixton,Surrey,England
+277,Streatham,Surrey,England
+278,Southwark,Surrey,England
+279,Lambeth,Surrey,England
+280,Broadstairs,Kent,England
+281,Margate,Kent,England
+282,Westgate on Sea,Kent,England
+283,Birchington,Kent,England
+284,Ramsgate,Kent,England
+285,Sandwich,Kent,England
+286,Whitstable,Kent,England
+287,Canterbury,Kent,England
+288,Fordwich,Kent,England
+289,Deal,Kent,England
+290,Dover,Kent,England
+291,Hythe,Kent,England
+292,Ashford,Kent,England
+293,Maidstone,Kent,England
+294,Sittingbourne,Kent,England
+295,Faversham,Kent,England
+296,Minster,Kent,England
+297,Sheerness,Kent,England
+298,Strood,Kent,England
+299,Rochester,Kent,England
+300,Gillingham,Kent,England
+301,Chatham,Kent,England
+302,Walderslade,Kent,England
+303,Snodland,Kent,England
+304,West Malling,Kent,England
+305,Paddock Wood,Kent,England
+306,Cranbrook,Kent,England
+307,Tenterden,Kent,England
+308,Lydd,Kent,England
+309,New Romsey,Kent,England
+310,Folkestone,Kent,England
+311,Royal Tunbridge Wells,Kent,England
+312,Tonbridge,Kent,England
+313,Edenbridge,Kent,England
+314,Sevenoaks,Kent,England
+315,Biggin Hill,Kent,England
+316,Bromley,Kent,England
+317,Sydenham,Kent,England
+318,Catford,Kent,England
+319,Lewisham,Kent,England
+320,Greenwich,Kent,England
+321,Lee,Kent,England
+322,Woolwich,Kent,England
+323,Bexleyheath,Kent,England
+324,Sidcup,Kent,England
+325,Orpington,Kent,England
+326,Foots Cray,Kent,England
+327,Swanley,Kent,England
+328,Dartford,Kent,England
+329,Northfleet,Kent,England
+330,Westerham,Kent,England
+331,Potters Bar,Middlesex,England
+332,Enfield,Middlesex,England
+333,Wood Green,Middlesex,England
+334,Finchley,Middlesex,England
+335,Hackney,Middlesex,England
+336,London,Middlesex,England
+337,Westminster,Middlesex,England
+338,Fulham,Middlesex,England
+339,Chiswick,Middlesex,England
+340,Hammersmith,Middlesex,England
+341,Kensington,Middlesex,England
+342,Shepherd's Bush,Middlesex,England
+343,Shepperton,Middlesex,England
+344,Teddington,Middlesex,England
+345,Hounslow,Middlesex,England
+346,Southall,Middlesex,England
+347,Ealing,Middlesex,England
+348,Northolt,Middlesex,England
+349,Uxbridge,Middlesex,England
+350,Ruislip,Middlesex,England
+351,Harrow,Middlesex,England
+352,Edgware,Middlesex,England
+353,Wembley,Middlesex,England
+354,Kilburn,Middlesex,England
+355,Camden,Middlesex,England
+356,Chelsea,Middlesex,England
+357,Brentford,Middlesex,England
+358,Tottenham,Middlesex,England
+359,Stratford,Essex,England
+360,East Ham,Essex,England
+361,West Ham,Essex,England
+362,Barking,Essex,England
+363,Romford,Essex,England
+364,Ilford,Essex,England
+365,Chigwell,Essex,England
+366,Walthamstow,Essex,England
+367,Loughton,Essex,England
+368,Epping,Essex,England
+369,Harlow,Essex,England
+370,Chipping Ongar,Essex,England
+371,Chelmsford,Essex,England
+372,Maldon,Essex,England
+373,Burnham on Crouch,Essex,England
+374,South Woodham Ferrers,Essex,England
+375,Wickford,Essex,England
+376,Billericay,Essex,England
+377,Brentwood,Essex,England
+378,South Ockendon,Essex,England
+379,Tilbury,Essex,England
+380,Stanford le Hope,Essex,England
+381,Basildon,Essex,England
+382,Benfleet,Essex,England
+383,Canvey,Essex,England
+384,Hadleigh,Essex,England
+385,Rayleigh,Essex,England
+386,Rochford,Essex,England
+387,Southend on Sea,Essex,England
+388,Ingatestone,Essex,England
+389,Witham,Essex,England
+390,Dagenham,Essex,England
+391,Great Dunmow,Essex,England
+392,Braintree,Essex,England
+393,Halstead,Essex,England
+394,Saffron Walden,Essex,England
+395,Colchester,Essex,England
+396,Wilvenhoe,Essex,England
+397,Walton on the Naze,Essex,England
+398,Brightlingsea,Essex,England
+399,Holland on Sea,Essex,England
+400,Coggeshall,Essex,England
+401,Dovercourt,Essex,England
+402,Harwich,Essex,England
+403,Clacton on Sea,Essex,England
+404,Manningtree,Essex,England
+405,Rickmansworth,Hertfordshire,England
+406,Watford,Hertfordshire,England
+407,Borehamwood,Hertfordshire,England
+408,Barnet,Hertfordshire,England
+409,Kings Langley,Hertfordshire,England
+410,Berkhamsted,Hertfordshire,England
+411,Tring,Hertfordshire,England
+412,Harpenden,Hertfordshire,England
+413,St Albans,Hertfordshire,England
+414,Hatfield,Hertfordshire,England
+415,Welwyn,Hertfordshire,England
+416,Waltham Cross,Hertfordshire,England
+417,Broxbourne,Hertfordshire,England
+418,Hoddesdon,Hertfordshire,England
+419,Hertford,Hertfordshire,England
+420,Ware,Hertfordshire,England
+421,Sawbridgeworth,Hertfordshire,England
+422,Bishop's Stortford,Hertfordshire,England
+423,Hemel Hampstead,Hertfordshire,England
+424,Buntingford,Hertfordshire,England
+425,Baldock,Hertfordshire,England
+426,Hitchin,Hertfordshire,England
+427,Stevenage,Hertfordshire,England
+428,Royston,Hertfordshire,England
+429,Letchworth,Hertfordshire,England
+430,Lakenheath,Suffolk,England
+431,Brandon,Suffolk,England
+432,Mildenhall,Suffolk,England
+433,Bury St Edmunds,Suffolk,England
+434,Haverhill,Suffolk,England
+435,Clare,Suffolk,England
+436,Stowmarket,Suffolk,England
+437,Needham Market,Suffolk,England
+438,Eye,Suffolk,England
+439,Halesworth,Suffolk,England
+440,Framlington,Suffolk,England
+441,Saxmundham,Suffolk,England
+442,Leiston,Suffolk,England
+443,Orford,Suffolk,England
+444,Woodbridge,Suffolk,England
+445,Kesgrave,Suffolk,England
+446,Ipswich,Suffolk,England
+447,Sudbury,Suffolk,England
+448,Hadleigh,Suffolk,England
+449,Felixstowe,Suffolk,England
+450,Beccles,Suffolk,England
+451,Lowestoft,Suffolk,England
+452,Gorleston on Sea,Suffolk,England
+453,Kings's Lynn,Norfolk,England
+454,Downham Market,Norfolk,England
+455,Swaffham,Norfolk,England
+456,Watton,Norfolk,England
+457,Dereham,Norfolk,England
+458,Hingham,Norfolk,England
+459,Attleborough,Norfolk,England
+460,Wymondham,Norfolk,England
+461,Norwich,Norfolk,England
+462,Reepham,Norfolk,England
+463,Fakenham,Norfolk,England
+464,Aylsham,Norfolk,England
+465,Long Stratton,Norfolk,England
+466,Thetford,Norfolk,England
+467,Diss,Norfolk,England
+468,Harleston,Norfolk,England
+469,Loddon,Norfolk,England
+470,Caister on Sea,Norfolk,England
+471,Great Yarmouth,Norfolk,England
+472,Acle,Norfolk,England
+473,Stalham,Norfolk,England
+474,North Walsham,Norfolk,England
+475,Holt,Norfolk,England
+476,Sheringham,Norfolk,England
+477,Wells next the Sea,Norfolk,England
+478,Hunstanton,Norfolk,England
+479,Cromer,Norfolk,England
+480,Cambridge,Cambridgeshire,England
+481,Cambourne,Cambridgeshire,England
+482,Ely,Cambridgeshire,England
+483,Soham,Cambridgeshire,England
+484,Chatteris,Cambridgeshire,England
+485,March,Cambridgeshire,England
+486,Whittlesey,Cambridgeshire,England
+487,Wisbech,Cambridgeshire,England
+488,Trumpington,Cambridgeshire,England
+489,Newmarket,Cambridgeshire,England
+490,St Neots,Huntingdonshire,England
+491,Huntingdon,Huntingdonshire,England
+492,St Ives,Huntingdonshire,England
+493,Ramsey,Huntingdonshire,England
+494,Godmanchester,Huntingdonshire,England
+495,Yaxley,Huntingdonshire,England
+496,Luton,Bedfordshire,England
+497,Dunstable,Bedfordshire,England
+498,Houghton Regis,Bedfordshire,England
+499,Flitwick,Bedfordshire,England
+500,Ampthill,Bedfordshire,England
+501,Shefford,Bedfordshire,England
+502,Arlesey,Bedfordshire,England
+503,Biggleswade,Bedfordshire,England
+504,Sandy,Bedfordshire,England
+505,Kempston,Bedfordshire,England
+506,Bedford,Bedfordshire,England
+507,Olney,Buckinghamshire,England
+508,Newport Pagnell,Buckinghamshire,England
+509,Stony Stratford,Buckinghamshire,England
+510,Milton Keynes,Buckinghamshire,England
+511,Bletchley,Buckinghamshire,England
+512,Winslow,Buckinghamshire,England
+513,Buckingham,Buckinghamshire,England
+514,Aylesbury,Buckinghamshire,England
+515,Wendover,Buckinghamshire,England
+516,Great Missenden,Buckinghamshire,England
+517,Chesham,Buckinghamshire,England
+518,Amersham,Buckinghamshire,England
+519,Princes Risborough,Buckinghamshire,England
+520,High Wycombe,Buckinghamshire,England
+521,Marlow,Buckinghamshire,England
+522,Beaconsfield,Buckinghamshire,England
+523,Gerrards Cross,Buckinghamshire,England
+524,Slough,Buckinghamshire,England
+525,Eton,Buckinghamshire,England
+526,Watlington,Oxfordshire,England
+527,Oxford,Oxfordshire,England
+528,Thame,Oxfordshire,England
+529,Carterton,Oxfordshire,England
+530,Burford,Oxfordshire,England
+531,Witney,Oxfordshire,England
+532,Charlbury,Oxfordshire,England
+533,Woodstock,Oxfordshire,England
+534,Bicester,Oxfordshire,England
+535,Chipping Norton,Oxfordshire,England
+536,Banbury,Oxfordshire,England
+537,Brackley,Northamptonshire,England
+538,Towcester,Northamptonshire,England
+539,Northampton,Northamptonshire,England
+540,Daventry,Northamptonshire,England
+541,Wellingborough,Northamptonshire,England
+542,Rushden,Northamptonshire,England
+543,Higham Ferrers,Northamptonshire,England
+544,Irthlingborough,Northamptonshire,England
+545,Finedon,Northamptonshire,England
+546,Thrapston,Northamptonshire,England
+547,Burton Latimer,Northamptonshire,England
+548,Kettering,Northamptonshire,England
+549,Rothwell,Northamptonshire,England
+550,Desborough,Northamptonshire,England
+551,Corby,Northamptonshire,England
+552,Oundle,Northamptonshire,England
+553,Duston,Northamptonshire,England
+554,Brixworth,Northamptonshire,England
+555,Peterborough,Northamptonshire,England
+556,Eye,Northamptonshire,England
+557,Bristol,Gloucestershire,England
+558,Filton,Gloucestershire,England
+559,Bradley Stoke,Gloucestershire,England
+560,Thornbury,Gloucestershire,England
+561,Yate,Gloucestershire,England
+562,Kingswood,Gloucestershire,England
+563,Berkeley,Gloucestershire,England
+564,Dursley,Gloucestershire,England
+565,Lydney,Gloucestershire,England
+566,Coleford,Gloucestershire,England
+567,Stonehouse,Gloucestershire,England
+568,Stroud,Gloucestershire,England
+569,Nailsworth,Gloucestershire,England
+570,Painswick,Gloucestershire,England
+571,Cirencester,Gloucestershire,England
+572,Wotton under Edge,Gloucestershire,England
+573,Fairford,Gloucestershire,England
+574,Lechlaide,Gloucestershire,England
+575,Northleach,Gloucestershire,England
+576,Bourton on the Water,Gloucestershire,England
+577,Stow on the Wold,Gloucestershire,England
+578,Winchcombe,Gloucestershire,England
+579,Bishop's Cleeve,Gloucestershire,England
+580,Cheltenham,Gloucestershire,England
+581,Gloucester,Gloucestershire,England
+582,Tewkesbury,Gloucestershire,England
+583,Newent,Gloucestershire,England
+584,Mitcheldean,Gloucestershire,England
+585,Cinderford,Gloucestershire,England
+586,Moreton in Marsh,Gloucestershire,England
+587,Chipping Campden,Gloucestershire,England
+588,Chipping Sodbury,Gloucestershire,England
+589,Avonmouth,Gloucestershire,England
+590,Cheddar,Somerset,England
+591,Clevedon,Somerset,England
+592,Chagford,Devon,England
+593,Morehampstead,Devon,England
+594,Mousehole,Cornwall,England
+595,Cowes,Isle of Wight,England
+596,Portland,Dorset,England
+597,Shaftesbury,Dorset,England
+598,Hungerford,Berkshire,England
+599,Tadley,Hampshire,England
+600,Hayling,Hampshire,England
+601,Bedhampton,Hampshire,England
+602,Selsey,Sussex,England
+603,Henfield,Sussex,England
+604,Ross on Wye,Herefordshire,England
+605,Ledbury,Herefordshire,England
+606,Hereford,Herefordshire,England
+607,Bromyard,Herefordshire,England
+608,Leominster,Herefordshire,England
+609,Kington,Herefordshire,England
+610,Upton on Severn,Worcestershire,England
+611,Pershore,Worcestershire,England
+612,Evesham,Worcestershire,England
+613,Worcester,Worcestershire,England
+614,Malvern,Worcestershire,England
+615,Droitwich Spa,Worcestershire,England
+616,Redditch,Worcestershire,England
+617,Tenbury Wells,Worcestershire,England
+618,Bewdley,Worcestershire,England
+619,Kidderminster,Worcestershire,England
+620,Stourport on Severn,Worcestershire,England
+621,Bromsgrove,Worcestershire,England
+622,Northfield,Worcestershire,England
+623,Kings Heath,Worcestershire,England
+624,Stechford,Worcestershire,England
+625,Hagley,Worcestershire,England
+626,Stourbridge,Worcestershire,England
+627,Kings Norton,Worcestershire,England
+628,Dudley,Worcestershire,England
+629,Tyseley,Worcestershire,England
+630,Moseley,Worcestershire,England
+631,Shipston on Stour,Warwickshire,England
+632,Stratford upon Avon,Warwickshire,England
+633,Alcester,Warwickshire,England
+634,Wellesbourne,Warwickshire,England
+635,Whitnash,Warwickshire,England
+636,Warwick,Warwickshire,England
+637,Royal Leamington Spa,Warwickshire,England
+638,Southam,Warwickshire,England
+639,Kenilworth,Warwickshire,England
+640,Henley in Arden,Warwickshire,England
+641,Rugby,Warwickshire,England
+642,Coventry,Warwickshire,England
+643,Bedworth,Warwickshire,England
+644,Nuneaton,Warwickshire,England
+645,Atherstone,Warwickshire,England
+646,Kingsbury,Warwickshire,England
+647,Sutton Coldfield,Warwickshire,England
+648,Erdington,Warwickshire,England
+649,Aston,Warwickshire,England
+650,Birmingham,Warwickshire,England
+651,Castle Bromwich,Warwickshire,England
+652,Chelmsley Wood,Warwickshire,England
+653,Coleshill,Warwickshire,England
+654,Shirley,Warwickshire,England
+655,Solihull,Warwickshire,England
+656,Dorridge,Warwickshire,England
+657,Edgbaston,Warwickshire,England
+658,Tamworth,Warwickshire,England
+659,Polesworth,Warwickshire,England
+660,Bidford on Avon,Warwickshire,England
+661,Ludlow,Shropshire,England
+662,Craven Arms,Shropshire,England
+663,Bishop's Castle,Shropshire,England
+664,Church Stretton,Shropshire,England
+665,Much Wenlock,Shropshire,England
+666,Dawley,Shropshire,England
+667,Telford,Shropshire,England
+668,Madeley,Shropshire,England
+669,Broseley,Shropshire,England
+670,Bridgnorth,Shropshire,England
+671,Cleobury Mortimer,Shropshire,England
+672,Shrewsbury,Shropshire,England
+673,Wellington,Shropshire,England
+674,Oakengates,Shropshire,England
+675,Shifnal,Shropshire,England
+676,Newport,Shropshire,England
+677,Market Drayton,Shropshire,England
+678,Wem,Shropshire,England
+679,Ellesmere,Shropshire,England
+680,Oswestry,Shropshire,England
+681,Wroxeter,Shropshire,England
+682,Leek,Staffordshire,England
+683,Biddulph,Staffordshire,England
+684,Kidsgrove,Staffordshire,England
+685,Tunstall,Staffordshire,England
+686,Longport,Staffordshire,England
+687,Hanley,Staffordshire,England
+688,Newcastle under Lyme,Staffordshire,England
+689,Stoke on Trent,Staffordshire,England
+690,Fenton,Staffordshire,England
+691,Longton,Staffordshire,England
+692,Cheadle,Staffordshire,England
+693,Stone,Staffordshire,England
+694,Eccleshall,Staffordshire,England
+695,Uttoxeter,Staffordshire,England
+696,Burton on Trent,Staffordshire,England
+697,Stafford,Staffordshire,England
+698,Rugeley,Staffordshire,England
+699,Penkridge,Staffordshire,England
+700,Hednesford,Staffordshire,England
+701,Cannock,Staffordshire,England
+702,Burntwood,Staffordshire,England
+703,Lichfield,Staffordshire,England
+704,Cheslyn Hay,Staffordshire,England
+705,Great Wyrley,Staffordshire,England
+706,Brownhills,Staffordshire,England
+707,Fazeley,Staffordshire,England
+708,Aldridge,Staffordshire,England
+709,Bloxwich,Staffordshire,England
+710,Walsall,Staffordshire,England
+711,Wednesfield,Staffordshire,England
+712,Wolverhampton,Staffordshire,England
+713,Wednesbury,Staffordshire,England
+714,Bilston,Staffordshire,England
+715,Coseley,Staffordshire,England
+716,West Bromwich,Staffordshire,England
+717,Smethwick,Staffordshire,England
+718,Harborne,Staffordshire,England
+719,Rowley Regis,Staffordshire,England
+720,Cradley Heath,Staffordshire,England
+721,Blackheath,Staffordshire,England
+722,Bearwood,Staffordshire,England
+723,Tipton,Staffordshire,England
+724,Warley,Worcestershire,England
+725,Oldbury,Shropshire,England
+726,Halesowen,Shropshire,England
+727,Measham,Derbyshire,England
+728,Market Harborough,Leicestershire,England
+729,Lutterworth,Leicestershire,England
+730,Hinckley,Leicestershire,England
+731,Earl Shilton,Leicestershire,England
+732,Leicester,Leicestershire,England
+733,Braunstone,Leicestershire,England
+734,Wigston,Leicestershire,England
+735,Oadby,Leicestershire,England
+736,Syston,Leicestershire,England
+737,Melton Mowbray,Leicestershire,England
+738,Loughborough,Leicestershire,England
+739,Ashby de la Zouch,Leicestershire,England
+740,Coalville,Leicestershire,England
+741,Bottesford,Leicestershire,England
+742,Castle Donington,Leicestershire,England
+743,Oakham,Rutland,England
+744,Uppingham,Rutland,England
+745,Swadlincote,Derbyshire,England
+746,Derby,Derbyshire,England
+747,Long Eaton,Derbyshire,England
+748,Ilkeston,Derbyshire,England
+749,Heanor,Derbyshire,England
+750,Langley Mill,Derbyshire,England
+751,Belper,Derbyshire,England
+752,Ripley,Derbyshire,England
+753,Ashbourne,Derbyshire,England
+754,Spondon,Derbyshire,England
+755,Alfreton,Derbyshire,England
+756,Clay Cross,Derbyshire,England
+757,Matlock,Derbyshire,England
+758,Bakewell,Derbyshire,England
+759,Buxton,Derbyshire,England
+760,Chapel en le Frith,Derbyshire,England
+761,Dronfield,Derbyshire,England
+762,Eckington,Derbyshire,England
+763,Killamarsh,Derbyshire,England
+764,Clowne,Derbyshire,England
+765,Bolsover,Derbyshire,England
+766,Shirebrook,Derbyshire,England
+767,Chesterfield,Derbyshire,England
+768,Staveley,Derbyshire,England
+769,Glossop,Derbyshire,England
+770,Hadfield,Derbyshire,England
+771,New Mills,Derbyshire,England
+772,Hathersage,Derbyshire,England
+773,Owlthorpe,Derbyshire,England
+774,South Normanton,Derbyshire,England
+775,Wirksworth,Derbyshire,England
+776,Cotgrave,Nottinghamshire,England
+777,Bingham,Nottinghamshire,England
+778,Nottingham,Nottinghamshire,England
+779,West Bridgford,Nottinghamshire,England
+780,Arnold,Nottinghamshire,England
+781,Hucknall,Nottinghamshire,England
+782,Beeston,Nottinghamshire,England
+783,Stapleford,Nottinghamshire,England
+784,Kimberley,Nottinghamshire,England
+785,Eastwood,Nottinghamshire,England
+786,Kirkby in Ashfield,Nottinghamshire,England
+787,Sutton in Ashfield,Nottinghamshire,England
+788,Southwell,Nottinghamshire,England
+789,Newark on Trent,Nottinghamshire,England
+790,Mansfield,Nottinghamshire,England
+791,Worksop,Nottinghamshire,England
+792,Retford,Nottinghamshire,England
+793,Harworth,Nottinghamshire,England
+794,Edwinstowe,Nottinghamshire,England
+795,Ravenshead,Nottinghamshire,England
+796,Broxtowe,Nottinghamshire,England
+797,Clifton,Nottinghamshire,England
+798,Keyworth,Nottinghamshire,England
+799,Radcliffe on Trent,Nottinghamshire,England
+800,Ollerton,Nottinghamshire,England
+801,Stamford,Lincolnshire,England
+802,Market Deeping,Lincolnshire,England
+803,Crowland,Lincolnshire,England
+804,Spalding,Lincolnshire,England
+805,Holbeach,Lincolnshire,England
+806,Long Sutton,Lincolnshire,England
+807,Kirton,Lincolnshire,England
+808,Boston,Lincolnshire,England
+809,Sleaford,Lincolnshire,England
+810,Grantham,Lincolnshire,England
+811,Bourne,Lincolnshire,England
+812,Wainfleet All Saints,Lincolnshire,England
+813,Spilsby,Lincolnshire,England
+814,Alford,Lincolnshire,England
+815,Chapel,Lincolnshire,England
+816,Skegness,Lincolnshire,England
+817,Woodhall Spa,Lincolnshire,England
+818,Coningsby,Lincolnshire,England
+819,North Hykeham,Lincolnshire,England
+820,Bracebridge,Lincolnshire,England
+821,Lincoln,Lincolnshire,England
+822,Washingborough,Lincolnshire,England
+823,Bardney,Lincolnshire,England
+824,Wragby,Lincolnshire,England
+825,Ruskington,Lincolnshire,England
+826,Mablethorpe,Lincolnshire,England
+827,Cleethorpes,Lincolnshire,England
+828,Grimsby,Lincolnshire,England
+829,Immingham,Lincolnshire,England
+830,Caistor,Lincolnshire,England
+831,Brigg,Lincolnshire,England
+832,Scunthorpe,Lincolnshire,England
+833,Kirton in Lindsey,Lincolnshire,England
+834,Market Rasen,Lincolnshire,England
+835,Louth,Lincolnshire,England
+836,Barton upon Humber,Lincolnshire,England
+837,Winterton,Lincolnshire,England
+838,Epworth,Lincolnshire,England
+839,Gainsborough,Lincolnshire,England
+840,Hoylake,Cheshire,England
+841,Moreton,Cheshire,England
+842,New Brighton,Cheshire,England
+843,Birkenhead,Cheshire,England
+844,New Ferry,Cheshire,England
+845,Bebington,Cheshire,England
+846,Bromborough,Cheshire,England
+847,Heswell,Cheshire,England
+848,Neston,Cheshire,England
+849,Ellesmere Port,Cheshire,England
+850,Chesterfield,Cheshire,England
+851,Nantwich,Cheshire,England
+852,Crewe,Cheshire,England
+853,Middlewich,Cheshire,England
+854,Winsford,Cheshire,England
+855,Northwich,Cheshire,England
+856,Sandbach,Cheshire,England
+857,Alsager,Cheshire,England
+858,Congleton,Cheshire,England
+859,Macclesfield,Cheshire,England
+860,Bollington,Cheshire,England
+861,Knutsford,Cheshire,England
+862,Wilmslow,Cheshire,England
+863,Frodsham,Cheshire,England
+864,Runcorn,Cheshire,England
+865,Altrincham,Cheshire,England
+866,Sale,Cheshire,England
+867,Wythenshawe,Cheshire,England
+868,Poyton,Cheshire,England
+869,Hyde,Cheshire,England
+870,Dukinfield,Cheshire,England
+871,Mossley,Cheshire,England
+872,Whaley Bridge,Cheshire,England
+873,Cheadle,Cheshire,England
+874,Manchester,Lancashire,England
+875,Droylsden,Lancashire,England
+876,Ashton under Lyne,Lancashire,England
+877,Stalybridge,Lancashire,England
+878,Audenshaw,Lancashire,England
+879,Denton,Lancashire,England
+880,Failsworth,Lancashire,England
+881,Oldham,Lancashire,England
+882,Middleton,Lancashire,England
+883,Chadderton,Lancashire,England
+884,Royton,Lancashire,England
+885,Shaw,Lancashire,England
+886,Littleborough,Lancashire,England
+887,Rochdale,Lancashire,England
+888,Milnrow,Lancashire,England
+889,Heywood,Lancashire,England
+890,Bury,Lancashire,England
+891,Radcliffe,Lancashire,England
+892,Whitefield,Lancashire,England
+893,Prestwich,Lancashire,England
+894,Pendlebury,Lancashire,England
+895,Swinton,Lancashire,England
+896,Salford,Lancashire,England
+897,Eccles,Lancashire,England
+898,Urmston,Lancashire,England
+899,Stretford,Lancashire,England
+900,Irlam,Lancashire,England
+901,Kearsley,Lancashire,England
+902,Farnworth,Lancashire,England
+903,Astley,Lancashire,England
+904,Tyldesley,Lancashire,England
+905,Atherton,Lancashire,England
+906,Leigh,Lancashire,England
+907,Hindley,Lancashire,England
+908,Wigan,Lancashire,England
+909,Westhoughton,Lancashire,England
+910,Bolton,Lancashire,England
+911,Horwich,Lancashire,England
+912,Ramsbottom,Lancashire,England
+913,Whitworth,Lancashire,England
+914,Bacup,Lancashire,England
+915,Rawtenstall,Lancashire,England
+916,Darwen,Lancashire,England
+917,Haslingden,Lancashire,England
+918,Chorley,Lancashire,England
+919,Skelmersdale,Lancashire,England
+920,Ashton in Makerfield,Lancashire,England
+921,Goborne,Lancashire,England
+922,Earlestown,Lancashire,England
+923,Newton le Willows,Lancashire,England
+924,Warrington,Lancashire,England
+925,St Helens,Lancashire,England
+926,Huyton,Lancashire,England
+927,Haleswood,Lancashire,England
+928,Idnes,Lancashire,England
+929,Whiston,Lancashire,England
+930,Prescot,Lancashire,England
+931,Liverpool,Lancashire,England
+932,Bootle,Lancashire,England
+933,Litherland,Lancashire,England
+934,Crosby,Lancashire,England
+935,Formby,Lancashire,England
+936,Ormskirk,Lancashire,England
+937,Southport,Lancashire,England
+938,Leyland,Lancashire,England
+939,Penwortham,Lancashire,England
+940,Preston,Lancashire,England
+941,Kirkham,Lancashire,England
+942,Lytham,Lancashire,England
+943,Blackpool,Lancashire,England
+944,Cleveleys,Lancashire,England
+945,Fleetwood,Lancashire,England
+946,Poulton le Fylde,Lancashire,England
+947,Garstang,Lancashire,England
+948,Longridge,Lancashire,England
+949,Clitheroe,Lancashire,England
+950,Colne,Lancashire,England
+951,Nelson,Lancashire,England
+952,Brierfield,Lancashire,England
+953,Burnley,Lancashire,England
+954,Padiham,Lancashire,England
+955,Great Harwood,Lancashire,England
+956,Clayton le Mours,Lancashire,England
+957,Rishton,Lancashire,England
+958,Blackburn,Lancashire,England
+959,Oswaldtwistle,Lancashire,England
+960,Accrington,Lancashire,England
+961,Todmorden,Lancashire,England
+962,Lancaster,Lancashire,England
+963,Heysham,Lancashire,England
+964,Morecambe,Lancashire,England
+965,Carnforth,Lancashire,England
+966,Barrow in Furness,Lancashire,England
+967,Dalton in Furness,Lancashire,England
+968,Askam in Furness,Lancashire,England
+969,Ulverston,Lancashire,England
+970,Broughton in Furness,Lancashire,England
+971,Thornton,Lancashire,England
+972,Bamber Bridge,Lancashire,England
+973,Ainsdale,Lancashire,England
+974,Dumplington,Lancashire,England
+975,Didsbury,Lancashire,England
+976,Trafford,Lancashire,England
+977,Sheffield,Yorkshire,England
+978,Rotherham,Yorkshire,England
+979,Rawmarsh,Yorkshire,England
+980,Dinnington,Yorkshire,England
+981,Maltby,Yorkshire,England
+982,Tickhill,Yorkshire,England
+983,Doncaster,Yorkshire,England
+984,Thurnscote,Yorkshire,England
+985,Wombwell,Yorkshire,England
+986,Stocksbridge,Yorkshire,England
+987,Hoyland,Yorkshire,England
+988,Penistone,Yorkshire,England
+989,Holmfirth,Yorkshire,England
+990,Maltham,Yorkshire,England
+991,Royston,Yorkshire,England
+992,Cudworth,Yorkshire,England
+993,Barnsley,Yorkshire,England
+994,Wath upon Dearne,Yorkshire,England
+995,Swinton,Yorkshire,England
+996,Mexborough,Yorkshire,England
+997,Conisbrough,Yorkshire,England
+998,Hemsworth,Yorkshire,England
+999,South Elmsall,Yorkshire,England
+1000,Askern,Yorkshire,England
+1001,Stainforth,Yorkshire,England
+1002,Hatfield,Yorkshire,England
+1003,Thorne,Yorkshire,England
+1004,Bawtry,Yorkshire,England
+1005,Goole,Yorkshire,England
+1006,Snaith,Yorkshire,England
+1007,Knottingley,Yorkshire,England
+1008,Sherburn in Elmet,Yorkshire,England
+1009,Selby,Yorkshire,England
+1010,Garforth,Yorkshire,England
+1011,Leeds,Yorkshire,England
+1012,Horsforth,Yorkshire,England
+1013,Rothwell,Yorkshire,England
+1014,Morley,Yorkshire,England
+1015,Outwood,Yorkshire,England
+1016,Wakefield,Yorkshire,England
+1017,Stanley,Yorkshire,England
+1018,Normanton,Yorkshire,England
+1019,Castleford,Yorkshire,England
+1020,Glasshoughton,Yorkshire,England
+1021,Pontefract,Yorkshire,England
+1022,Featherstone,Yorkshire,England
+1023,Osset,Yorkshire,England
+1024,Dewsbury,Yorkshire,England
+1025,Mirfield,Yorkshire,England
+1026,Huddersfield,Yorkshire,England
+1027,Meltham,Yorkshire,England
+1028,Ripponden,Yorkshire,England
+1029,Hebden Bridge,Yorkshire,England
+1030,Sowerby Bridge,Yorkshire,England
+1031,Halifax,Yorkshire,England
+1032,Bradford,Yorkshire,England
+1033,Pudsey,Yorkshire,England
+1034,Farsley,Yorkshire,England
+1035,Yeadon,Yorkshire,England
+1036,Guiseley,Yorkshire,England
+1037,Otley,Yorkshire,England
+1038,Bingley,Yorkshire,England
+1039,Shipley,Yorkshire,England
+1040,Keighley,Yorkshire,England
+1041,Ilkley,Yorkshire,England
+1042,Wetherby,Yorkshire,England
+1043,Tadcaster,Yorkshire,England
+1044,Batley,Yorkshire,England
+1045,Birstall,Yorkshire,England
+1046,Gomersal,Yorkshire,England
+1047,Cleckheaton,Yorkshire,England
+1048,Brighouse,Yorkshire,England
+1049,Elland,Yorkshire,England
+1050,Heckmondwike,Yorkshire,England
+1051,Liversedge,Yorkshire,England
+1052,Barnoldswick,Yorkshire,England
+1053,Earby,Yorkshire,England
+1054,Skipton,Yorkshire,England
+1055,Harrogate,Yorkshire,England
+1056,Knaresborough,Yorkshire,England
+1057,Pateley Bridge,Yorkshire,England
+1058,Ripon,Yorkshire,England
+1059,Boroughbridge,Yorkshire,England
+1060,Settle,Yorkshire,England
+1061,Sedbergh,Yorkshire,England
+1062,High Bentham,Yorkshire,England
+1063,Headingley,Yorkshire,England
+1064,Bramley,Yorkshire,England
+1065,Eccleshill,Yorkshire,England
+1066,Marsden,Yorkshire,England
+1067,Rossington,Yorkshire,England
+1068,Broomhill,Yorkshire,England
+1069,Handsworth,Yorkshire,England
+1070,Loxley,Yorkshire,England
+1071,Hull,Yorkshire,England
+1072,Hedon,Yorkshire,England
+1073,Withernsea,Yorkshire,England
+1074,Beverley,Yorkshire,England
+1075,South Cave,Yorkshire,England
+1076,Howden,Yorkshire,England
+1077,Market Weighton,Yorkshire,England
+1078,Hornsea,Yorkshire,England
+1079,Pocklington,Yorkshire,England
+1080,Driffield,Yorkshire,England
+1081,Bridlington,Yorkshire,England
+1082,Brough,Yorkshire,England
+1083,Cottingham,Yorkshire,England
+1084,Filey,Yorkshire,England
+1085,Easingwold,Yorkshire,England
+1086,Malton,Yorkshire,England
+1087,Pickering,Yorkshire,England
+1088,Helmsley,Yorkshire,England
+1089,Kirkbymoorside,Yorkshire,England
+1090,Scarborough,Yorkshire,England
+1091,Thirsk,Yorkshire,England
+1092,Sleights,Yorkshire,England
+1093,Guisborough,Yorkshire,England
+1094,Redcar,Yorkshire,England
+1095,Brotton,Yorkshire,England
+1096,Skelton,Yorkshire,England
+1097,Loftus,Yorkshire,England
+1098,Thornaby,Yorkshire,England
+1099,Ingleby Barwick,Yorkshire,England
+1100,Yarm,Yorkshire,England
+1101,Middlesborough,Yorkshire,England
+1102,Bedale,Yorkshire,England
+1103,Masham,Yorkshire,England
+1104,Middleham,Yorkshire,England
+1105,Leyburn,Yorkshire,England
+1106,Catterick Garrison,Yorkshire,England
+1107,Richmond,Yorkshire,England
+1108,Colburn,Yorkshire,England
+1109,Catterick,Yorkshire,England
+1110,Northallerton,Yorkshire,England
+1111,Hawes,Yorkshire,England
+1112,York,Yorkshire,England
+1113,Haxby,Yorkshire,England
+1114,Marske by the Sea,Yorkshire,England
+1115,Ormesby,Yorkshire,England
+1116,Poppleton,Yorkshire,England
+1117,Copmanthorpe,Yorkshire,England
+1118,Bishopthorpe,Yorkshire,England
+1119,Milnthorpe,Westmorland,England
+1120,Kirkby Lonsdale,Westmorland,England
+1121,Kendal,Westmorland,England
+1122,Bowness on Windermere,Westmorland,England
+1123,Windermere,Westmorland,England
+1124,Ambleside,Westmorland,England
+1125,Kirkby Stephen,Westmorland,England
+1126,Appleby in Westmorland,Westmorland,England
+1127,Grasmere,Westmorland,England
+1128,Arnside,Westmorland,England
+1129,Millom,Cumbria,England
+1130,Egremont,Cumbria,England
+1131,Cleator Moor,Cumbria,England
+1132,Whitehaven,Cumbria,England
+1133,Keswick,Cumbria,England
+1134,Penrith,Cumbria,England
+1135,Cockermouth,Cumbria,England
+1136,Maryport,Cumbria,England
+1137,Workington,Cumbria,England
+1138,Aspatria,Cumbria,England
+1139,Wigton,Cumbria,England
+1140,Carlisle,Cumbria,England
+1141,Alston,Cumbria,England
+1142,Silloth,Cumbria,England
+1143,Brampton,Cumbria,England
+1144,Longtown,Cumbria,England
+1145,Eaglescliffe,County Durham,England
+1146,Darlington,County Durham,England
+1147,Newton Aycliffe,County Durham,England
+1148,Shildon,County Durham,England
+1149,Bishop Auckland,County Durham,England
+1150,Crook,County Durham,England
+1151,Spennymoor,County Durham,England
+1152,Durham,County Durham,England
+1153,Stanhope,County Durham,England
+1154,Stockton on Tees,County Durham,England
+1155,Billingham,County Durham,England
+1156,Hartlepool,County Durham,England
+1157,Peterlee,County Durham,England
+1158,Hetton le Hole,County Durham,England
+1159,Seaham,County Durham,England
+1160,Barnard Castle,County Durham,England
+1161,Consett,County Durham,England
+1162,Stanley,County Durham,England
+1163,Birtley,County Durham,England
+1164,Whickham,County Durham,England
+1165,Blaydon on Tyne,County Durham,England
+1166,Ryton,County Durham,England
+1167,Gateshead,County Durham,England
+1168,Hebburn,County Durham,England
+1169,Jarrow,County Durham,England
+1170,Sunderland,County Durham,England
+1171,Houghton le Spring,County Durham,England
+1172,Chester le Street,County Durham,England
+1173,Washington,County Durham,England
+1174,South Shields,County Durham,England
+1175,Dunston,County Durham,England
+1176,Lanchester,County Durham,England
+1177,Sacriston,County Durham,England
+1178,Bedlington,County Durham,England
+1179,Newcastle upon Tyne,Northumberland,England
+1180,Wallsend,Northumberland,England
+1181,North Shields,Northumberland,England
+1182,Whitley Bay,Northumberland,England
+1183,Cramlington,Northumberland,England
+1184,Ponteland,Northumberland,England
+1185,Prudhoe,Northumberland,England
+1186,Corbridge,Northumberland,England
+1187,Hexham,Northumberland,England
+1188,Morpeth,Northumberland,England
+1189,Ashington,Northumberland,England
+1190,Blyth,Northumberland,England
+1191,Allendale,Northumberland,England
+1192,Haltwhistle,Northumberland,England
+1193,Rothbury,Northumberland,England
+1194,Alnwick,Northumberland,England
+1195,Wooler,Northumberland,England
+1196,Berwick upon Tweed,Northumberland,England
+1197,Tweedmouth,County Durham,England
+1198,Lindisfarne,County Durham,England
+1199,Newport,Monmouthshire,Wales
+1200,Risca,Monmouthshire,Wales
+1201,Cwmbran,Monmouthshire,Wales
+1202,Pontypool,Monmouthshire,Wales
+1203,Abertillery,Monmouthshire,Wales
+1204,Blackwood,Monmouthshire,Wales
+1205,Newbridge,Monmouthshire,Wales
+1206,Blaina,Monmouthshire,Wales
+1207,Nantyglo,Monmouthshire,Wales
+1208,Ebbw Vale,Monmouthshire,Wales
+1209,Tredegar,Monmouthshire,Wales
+1210,Abergavenny,Monmouthshire,Wales
+1211,Blaenavon,Monmouthshire,Wales
+1212,Usk,Monmouthshire,Wales
+1213,Caldicot,Monmouthshire,Wales
+1214,Chepstow,Monmouthshire,Wales
+1215,Monmouth,Monmouthshire,Wales
+1216,Caerleon,Monmouthshire,Wales
+1217,Magor,Monmouthshire,Wales
+1218,St Mellons,Monmouthshire,Wales
+1219,Cardiff,Glamorgan,Wales
+1220,Dinas Powys,Glamorgan,Wales
+1221,Barry,Glamorgan,Wales
+1222,Penarth,Glamorgan,Wales
+1223,Caerphilly,Glamorgan,Wales
+1224,Pontypridd,Glamorgan,Wales
+1225,Llantrisant,Glamorgan,Wales
+1226,Cowbridge,Glamorgan,Wales
+1227,Llantwit,Glamorgan,Wales
+1228,Bridgend,Glamorgan,Wales
+1229,Porthcawl,Glamorgan,Wales
+1230,Pyle,Glamorgan,Wales
+1231,Maesteg,Glamorgan,Wales
+1232,Pontycymer,Glamorgan,Wales
+1233,Tonypandy,Glamorgan,Wales
+1234,Tonyrefail,Glamorgan,Wales
+1235,Pencoed,Glamorgan,Wales
+1236,Gelligaer,Glamorgan,Wales
+1237,Bargoed,Glamorgan,Wales
+1238,Ystrad Mynach,Glamorgan,Wales
+1239,Porth,Glamorgan,Wales
+1240,Gelli,Glamorgan,Wales
+1241,Treorchy,Glamorgan,Wales
+1242,Aberdale,Glamorgan,Wales
+1243,Merthyr Tydfil,Glamorgan,Wales
+1244,Treharris,Glamorgan,Wales
+1245,Abercynon,Glamorgan,Wales
+1246,Mountain Ash,Glamorgan,Wales
+1247,Port Talbot,Glamorgan,Wales
+1248,Briton Ferry,Glamorgan,Wales
+1249,Neath,Glamorgan,Wales
+1250,Swansea,Glamorgan,Wales
+1251,Morriston,Glamorgan,Wales
+1252,Loughor,Glamorgan,Wales
+1253,Gorseinon,Glamorgan,Wales
+1254,Pontardawe,Glamorgan,Wales
+1255,Clydach,Glamorgan,Wales
+1256,Glynneath,Glamorgan,Wales
+1257,Pontarddulais,Glamorgan,Wales
+1258,Llandaff,Glamorgan,Wales
+1259,Pontyclun,Glamorgan,Wales
+1260,Crickhowell,Brecknockshire,Wales
+1261,Brynmawr,Brecknockshire,Wales
+1262,Ystradgynlais,Brecknockshire,Wales
+1263,Brecon,Brecknockshire,Wales
+1264,Hay on Wye,Brecknockshire,Wales
+1265,Llanwrtyd Wells,Brecknockshire,Wales
+1266,Builth Wells,Brecknockshire,Wales
+1267,Carmarthen,Carmarthenshire,Wales
+1268,St Clears,Carmarthenshire,Wales
+1269,Whitland,Carmarthenshire,Wales
+1270,Laugharne,Carmarthenshire,Wales
+1271,Kidwelly,Carmarthenshire,Wales
+1272,Burry Port,Carmarthenshire,Wales
+1273,Llanelli,Carmarthenshire,Wales
+1274,Ammanford,Carmarthenshire,Wales
+1275,Brynamman,Carmarthenshire,Wales
+1276,Llandeilo,Carmarthenshire,Wales
+1277,Llandovery,Carmarthenshire,Wales
+1278,Newcastle Emlyn,Carmarthenshire,Wales
+1279,Saundersfoot,Pembrokeshire,Wales
+1280,Tenby,Pembrokeshire,Wales
+1281,Pembroke,Pembrokeshire,Wales
+1282,Pembroke Dock,Pembrokeshire,Wales
+1283,Neyland,Pembrokeshire,Wales
+1284,Milford Haven,Pembrokeshire,Wales
+1285,Haverfordwest,Pembrokeshire,Wales
+1286,Narberth,Pembrokeshire,Wales
+1287,St Davids,Pembrokeshire,Wales
+1288,Fishguard,Pembrokeshire,Wales
+1289,Cardigan,Cardiganshire,Wales
+1290,Lampeter,Cardiganshire,Wales
+1291,Aberaeron,Cardiganshire,Wales
+1292,Aberystwyth,Cardiganshire,Wales
+1293,Borth,Cardiganshire,Wales
+1294,Aberporth,Cardiganshire,Wales
+1295,Knighton,Radnorshire,Wales
+1296,Llandrindod Wells,Radnorshire,Wales
+1297,Rhayader,Radnorshire,Wales
+1298,Presteigne,Radnorshire,Wales
+1299,New Radnor,Radnorshire,Wales
+1300,Llanidloes,Montgomeryshire,Wales
+1301,Newtown,Montgomeryshire,Wales
+1302,Machynlleth,Montgomeryshire,Wales
+1303,Welshpool,Montgomeryshire,Wales
+1304,Montgomery,Montgomeryshire,Wales
+1305,Barmouth,Merionethshire,Wales
+1306,Dolgellau,Merionethshire,Wales
+1307,Tywyn,Merionethshire,Wales
+1308,Bala,Merionethshire,Wales
+1309,Corwen,Merionethshire,Wales
+1310,Blaenau Ffestiniog,Merionethshire,Wales
+1311,Harlech,Merionethshire,Wales
+1312,Pwllhe,Caernarfonshire,Wales
+1313,Criccieth,Caernarfonshire,Wales
+1314,Porthmadog,Caernarfonshire,Wales
+1315,Llanberis,Caernarfonshire,Wales
+1316,Caernarfon,Caernarfonshire,Wales
+1317,Bethesda,Caernarfonshire,Wales
+1318,Bangor,Caernarfonshire,Wales
+1319,Penmaenmawr,Caernarfonshire,Wales
+1320,Conwy,Caernarfonshire,Wales
+1321,Llandudno,Caernarfonshire,Wales
+1322,Holyhead,Isle of Anglesey,Wales
+1323,Valley,Isle of Anglesey,Wales
+1324,Amlwch,Isle of Anglesey,Wales
+1325,Llanerchymedd,Isle of Anglesey,Wales
+1326,Llangefni,Isle of Anglesey,Wales
+1327,Beaumaris,Isle of Anglesey,Wales
+1328,Menai Bridge,Isle of Anglesey,Wales
+1329,Llanfairpwllgwyngyll,Isle of Anglesey,Wales
+1330,Colwyn Bay,Denbighshire,Wales
+1331,Abergele,Denbighshire,Wales
+1332,Kinmel Bay,Denbighshire,Wales
+1333,Llanrwst,Denbighshire,Wales
+1334,Denbigh,Denbighshire,Wales
+1335,Ruthin,Denbighshire,Wales
+1336,Wrexham,Denbighshire,Wales
+1337,Rhosllannerchrugog,Denbighshire,Wales
+1338,Llangollen,Denbighshire,Wales
+1339,St Asaph,Flintshire,Wales
+1340,Rhyl,Flintshire,Wales
+1341,Prestatyn,Flintshire,Wales
+1342,Holywell,Flintshire,Wales
+1343,Bagillt,Flintshire,Wales
+1344,Flint,Flintshire,Wales
+1345,Connah's Quay,Flintshire,Wales
+1346,Shotton,Flintshire,Wales
+1347,Ewloe,Flintshire,Wales
+1348,Buckley,Flintshire,Wales
+1349,Mold,Flintshire,Wales
+1350,Penyffordd,Flintshire,Wales
+1351,Rhuddlan,Flintshire,Wales
+1352,Broughton,Flintshire,Wales
+1353,Overton,Flintshire,Wales
+1354,Duns,Berwickshire,Scotland
+1355,Eyemouth,Berwickshire,Scotland
+1356,Coldstream,Berwickshire,Scotland
+1357,Earlston,Berwickshire,Scotland
+1358,Melrose,Roxburghshire,Scotland
+1359,Kelso,Roxburghshire,Scotland
+1360,Jedburgh,Roxburghshire,Scotland
+1361,Hawick,Roxburghshire,Scotland
+1362,Roxburgh,Roxburghshire,Scotland
+1363,Selkirk,Selkirkshire,Scotland
+1364,Galashiels,Selkirkshire,Scotland
+1365,Peebles,Peebleshire,Scotland
+1366,Innerleithen,Peebleshire,Scotland
+1367,Cardrona,Peebleshire,Scotland
+1368,Dumfries,Dumfrieshire,Scotland
+1369,Gretna,Dumfrieshire,Scotland
+1370,Annan,Dumfrieshire,Scotland
+1371,Lockerbie,Dumfrieshire,Scotland
+1372,Thornhill,Dumfrieshire,Scotland
+1373,Langholm,Dumfrieshire,Scotland
+1374,Moffat,Dumfrieshire,Scotland
+1375,Sanquhar,Dumfrieshire,Scotland
+1376,Kirkcudbright,Kirkcudbright,Scotland
+1377,Castle Douglas,Kirkcudbright,Scotland
+1378,Dalbeattie,Kirkcudbright,Scotland
+1379,Stranraer,Wigtownshire,Scotland
+1380,Newton Stewart,Wigtownshire,Scotland
+1381,Wigtown,Wigtownshire,Scotland
+1382,Glenluce,Wigtownshire,Scotland
+1383,Girvan,Ayrshire,Scotland
+1384,Maybole,Ayrshire,Scotland
+1385,Dalmellington,Ayrshire,Scotland
+1386,New Cumnock,Ayrshire,Scotland
+1387,Cumnock,Ayrshire,Scotland
+1388,Alloway,Ayrshire,Scotland
+1389,Ayr,Ayrshire,Scotland
+1390,Prestwick,Ayrshire,Scotland
+1391,Mauchline,Ayrshire,Scotland
+1392,Galston,Ayrshire,Scotland
+1393,Newmalns,Ayrshire,Scotland
+1394,Darvel,Ayrshire,Scotland
+1395,Kilmarnock,Ayrshire,Scotland
+1396,Irvine,Ayrshire,Scotland
+1397,Kilwinning,Ayrshire,Scotland
+1398,Stewarton,Ayrshire,Scotland
+1399,Dalry,Ayrshire,Scotland
+1400,Kilbirnie,Ayrshire,Scotland
+1401,Beith,Ayrshire,Scotland
+1402,West Kilbride,Ayrshire,Scotland
+1403,Stevenston,Ayrshire,Scotland
+1404,Saltcoats,Ayrshire,Scotland
+1405,Ardrossan,Ayrshire,Scotland
+1406,Troon,Ayrshire,Scotland
+1407,Greenock,Renfrewshire,Scotland
+1408,Gourock,Renfrewshire,Scotland
+1409,Bishopton,Renfrewshire,Scotland
+1410,Erskine,Renfrewshire,Scotland
+1411,Renfrew,Renfrewshire,Scotland
+1412,Paisley,Renfrewshire,Scotland
+1413,Linwood,Renfrewshire,Scotland
+1414,Barrhead,Renfrewshire,Scotland
+1415,Neilston,Renfrewshire,Scotland
+1416,Newton Mearns,Renfrewshire,Scotland
+1417,Thornliebank,Renfrewshire,Scotland
+1418,Eaglesham,Renfrewshire,Scotland
+1419,Clarkston,Renfrewshire,Scotland
+1420,Johnstone,Renfrewshire,Scotland
+1421,Pollockshaws,Renfrewshire,Scotland
+1422,Boglestone,Renfrewshire,Scotland
+1423,Inverkip,Renfrewshire,Scotland
+1424,Biggar,Lanarkshire,Scotland
+1425,Lanark,Lanarkshire,Scotland
+1426,Kirkmuirhill,Lanarkshire,Scotland
+1427,Lesmahagow,Lanarkshire,Scotland
+1428,Strathaven,Lanarkshire,Scotland
+1429,Stonehouse,Lanarkshire,Scotland
+1430,Carluke,Lanarkshire,Scotland
+1431,Wishaw,Lanarkshire,Scotland
+1432,Larkhall,Lanarkshire,Scotland
+1433,Hamilton,Lanarkshire,Scotland
+1434,East Kilbride,Lanarkshire,Scotland
+1435,Blantyre,Lanarkshire,Scotland
+1436,Bothwell,Lanarkshire,Scotland
+1437,Cambuslang,Lanarkshire,Scotland
+1438,Rutherglen,Lanarkshire,Scotland
+1439,Uddingston,Lanarkshire,Scotland
+1440,Viewpark,Lanarkshire,Scotland
+1441,Bellshill,Lanarkshire,Scotland
+1442,Holytown,Lanarkshire,Scotland
+1443,New Stevenston,Lanarkshire,Scotland
+1444,Motherwell,Lanarkshire,Scotland
+1445,Newmains,Lanarkshire,Scotland
+1446,Shotts,Lanarkshire,Scotland
+1447,Chapelhall,Lanarkshire,Scotland
+1448,Glasgow,Lanarkshire,Scotland
+1449,Bishopbriggs,Lanarkshire,Scotland
+1450,Stepps,Lanarkshire,Scotland
+1451,Moodiesburn,Lanarkshire,Scotland
+1452,Gartcosh,Lanarkshire,Scotland
+1453,Coatbridge,Lanarkshire,Scotland
+1454,Airdrie,Lanarkshire,Scotland
+1455,Govan,Lanarkshire,Scotland
+1456,Finnieston,Lanarkshire,Scotland
+1457,Dunbar,East Lothian,Scotland
+1458,Haddington,East Lothian,Scotland
+1459,North Berwick,East Lothian,Scotland
+1460,Tranent,East Lothian,Scotland
+1461,Cockenzie,East Lothian,Scotland
+1462,Prestonpans,East Lothian,Scotland
+1463,Longniddry,East Lothian,Scotland
+1464,Edinburgh,Midlothian,Scotland
+1465,Musselburgh,Midlothian,Scotland
+1466,Dalkeith,Midlothian,Scotland
+1467,Mayfield,Midlothian,Scotland
+1468,Newtongrange,Midlothian,Scotland
+1469,Gorebridge,Midlothian,Scotland
+1470,Bonnyrigg,Midlothian,Scotland
+1471,Loanhead,Midlothian,Scotland
+1472,Penicuik,Midlothian,Scotland
+1473,Rosewell,Midlothian,Scotland
+1474,Balerno,Midlothian,Scotland
+1475,East Calder,Midlothian,Scotland
+1476,Livingstone,Midlothian,Scotland
+1477,Leith,Midlothian,Scotland
+1478,Musselburgh,Midlothian,Scotland
+1479,Cramond,Midlothian,Scotland
+1480,South Queensferry,West Lothian,Scotland
+1481,Kirkliston,West Lothian,Scotland
+1482,Broxburn,West Lothian,Scotland
+1483,Linlithgow,West Lothian,Scotland
+1484,Bo Ness,West Lothian,Scotland
+1485,Bathgate,West Lothian,Scotland
+1486,Blackburn,West Lothian,Scotland
+1487,Whitburn,West Lothian,Scotland
+1488,Armadale,West Lothian,Scotland
+1489,Helensburgh,Dumbartonshire,Scotland
+1490,Balloch,Dumbartonshire,Scotland
+1491,Alexandria,Dumbartonshire,Scotland
+1492,Bonhill,Dumbartonshire,Scotland
+1493,Dumbarton,Dumbartonshire,Scotland
+1494,Bearsden,Dumbartonshire,Scotland
+1495,Clydebank,Dumbartonshire,Scotland
+1496,Kirkintilloch,Dumbartonshire,Scotland
+1497,Lenzie,Dumbartonshire,Scotland
+1498,Cumbernauld,Dumbartonshire,Scotland
+1499,Drumchapel,Dumbartonshire,Scotland
+1500,Milngavie,Stirlingshire,Scotland
+1501,Lennoxtown,Stirlingshire,Scotland
+1502,Kilsyth,Stirlingshire,Scotland
+1503,Denny,Stirlingshire,Scotland
+1504,Bonnybridge,Stirlingshire,Scotland
+1505,Bannockburn,Stirlingshire,Scotland
+1506,Stirling,Stirlingshire,Scotland
+1507,Bridge of Allan,Stirlingshire,Scotland
+1508,Stenhousemuir,Stirlingshire,Scotland
+1509,Larbert,Stirlingshire,Scotland
+1510,Falkirk,Stirlingshire,Scotland
+1511,Polmont,Stirlingshire,Scotland
+1512,Strathblane,Stirlingshire,Scotland
+1513,Grangemouth,Stirlingshire,Scotland
+1514,Alva,Stirlingshire,Scotland
+1515,Tillicoultry,Clackmannanshire,Scotland
+1516,Dollar,Clackmannanshire,Scotland
+1517,Alloa,Clackmannanshire,Scotland
+1518,Clackmannan,Clackmannanshire,Scotland
+1519,Tullibody,Clackmannanshire,Scotland
+1520,Kinross,Kinrosshire,Scotland
+1521,Dunfermline,Fife,Scotland
+1522,Rosyth,Fife,Scotland
+1523,Inverkeithing,Fife,Scotland
+1524,North Queensferry,Fife,Scotland
+1525,Dalgety Bay,Fife,Scotland
+1526,Kelty,Fife,Scotland
+1527,Cowdenbeath,Fife,Scotland
+1528,Lochgelly,Fife,Scotland
+1529,Ballingry,Fife,Scotland
+1530,Cardenden,Fife,Scotland
+1531,Kirkcaldy,Fife,Scotland
+1532,Kinghorn,Fife,Scotland
+1533,Burntisland,Fife,Scotland
+1534,Glenrothes,Fife,Scotland
+1535,Markinch,Fife,Scotland
+1536,Ladybank,Fife,Scotland
+1537,Auchtermuchity,Fife,Scotland
+1538,Newburgh,Fife,Scotland
+1539,Cupar,Fife,Scotland
+1540,St Andrews,Fife,Scotland
+1541,Anstruther,Fife,Scotland
+1542,Leven,Fife,Scotland
+1543,Methil,Fife,Scotland
+1544,Buckhaven,Fife,Scotland
+1545,Newport on Tay,Fife,Scotland
+1546,Tayport,Fife,Scotland
+1547,Leuchars,Fife,Scotland
+1548,Pitlochry,Perthshire,Scotland
+1549,Aberfeldy,Perthshire,Scotland
+1550,Callander,Perthshire,Scotland
+1551,Dunblane,Perthshire,Scotland
+1552,Crieff,Perthshire,Scotland
+1553,Auchterarder,Perthshire,Scotland
+1554,Bridge of Earn,Perthshire,Scotland
+1555,Perth,Perthshire,Scotland
+1556,Scone,Perthshire,Scotland
+1557,Dunkeld,Perthshire,Scotland
+1558,Blairgowrie,Perthshire,Scotland
+1559,Rattray,Perthshire,Scotland
+1560,Coupal Angus,Perthshire,Scotland
+1561,Alyth,Perthshire,Scotland
+1562,Dundee,Angus,Scotland
+1563,Monifieth,Angus,Scotland
+1564,Carnoustie,Angus,Scotland
+1565,Arbroath,Angus,Scotland
+1566,Montrose,Angus,Scotland
+1567,Brechin,Angus,Scotland
+1568,Kirriemuir,Angus,Scotland
+1569,Forfar,Angus,Scotland
+1570,Laurencekirk,Kincardineshire,Scotland
+1571,Inverbervie,Kincardineshire,Scotland
+1572,Stonehaven,Kincardineshire,Scotland
+1573,Banchory,Kincardineshire,Scotland
+1574,Portlethen,Kincardineshire,Scotland
+1575,Rothesay,Buteshire,Scotland
+1576,Millp,Buteshire,Scotland
+1577,Brodick,Buteshire,Scotland
+1578,Cambeltown,Argyllshire,Scotland
+1579,Lochgilphead,Argyllshire,Scotland
+1580,Dunoon,Argyllshire,Scotland
+1581,Inveraray,Argyllshire,Scotland
+1582,Bowmore,Argyllshire,Scotland
+1583,Port Ellen,Argyllshire,Scotland
+1584,Scalasaig,Argyllshire,Scotland
+1585,Oban,Argyllshire,Scotland
+1586,Connel,Argyllshire,Scotland
+1587,Achlonan,Argyllshire,Scotland
+1588,Fionnphort,Argyllshire,Scotland
+1589,Tobermory,Argyllshire,Scotland
+1590,Lochaline,Argyllshire,Scotland
+1591,Lochyside,Argyllshire,Scotland
+1592,Aberdeen,Aberdeenshire,Scotland
+1593,Westhill,Aberdeenshire,Scotland
+1594,Dyce,Aberdeenshire,Scotland
+1595,Kintore,Aberdeenshire,Scotland
+1596,Inverurie,Aberdeenshire,Scotland
+1597,Ballater,Aberdeenshire,Scotland
+1598,Aboyne,Aberdeenshire,Scotland
+1599,Huntly,Aberdeenshire,Scotland
+1600,Ellon,Aberdeenshire,Scotland
+1601,Turriff,Aberdeenshire,Scotland
+1602,Fraserburgh,Aberdeenshire,Scotland
+1603,Peterhead,Aberdeenshire,Scotland
+1604,Banff,Banffshire,Scotland
+1605,Macduff,Banffshire,Scotland
+1606,Cullen,Banffshire,Scotland
+1607,Buckie,Banffshire,Scotland
+1608,Keith,Banffshire,Scotland
+1609,Dufftown,Banffshire,Scotland
+1610,Elgin,Morayshire,Scotland
+1611,Lossiemouth,Morayshire,Scotland
+1612,Forres,Morayshire,Scotland
+1613,Aviemore,Morayshire,Scotland
+1614,Carrbridge,Morayshire,Scotland
+1615,Nairn,Nairnshire,Scotland
+1616,Inverness,Invernesshire,Scotland
+1617,Kingussie,Invernesshire,Scotland
+1618,Fort William,Invernesshire,Scotland
+1619,Morar,Invernesshire,Scotland
+1620,Mallaig,Invernesshire,Scotland
+1621,Drumnadrocht,Invernesshire,Scotland
+1622,Portree,Invernesshire,Scotland
+1623,Baile a Mhanaich,Invernesshire,Scotland
+1624,Leverburgh,Invernesshire,Scotland
+1625,Tarbet,Invernesshire,Scotland
+1626,Stornaway,Rosshire,Scotland
+1627,Tolsta,Rosshire,Scotland
+1628,Port of Ness,Rosshire,Scotland
+1629,Barvas,Rosshire,Scotland
+1630,Strathcarron,Rosshire,Scotland
+1631,Muir of Ord,Rosshire,Scotland
+1632,Dingwall,Rosshire,Scotland
+1633,Fortrose,Rosshire,Scotland
+1634,Alness,Rosshire,Scotland
+1635,Invergordon,Rosshire,Scotland
+1636,Tain,Rosshire,Scotland
+1637,Ullapool,Cromartyshire,Scotland
+1638,Cromarty,Cromartyshire,Scotland
+1639,Lairg,Sutherland,Scotland
+1640,Golspie,Sutherland,Scotland
+1641,Bonar Bridge,Sutherland,Scotland
+1642,Lochinver,Sutherland,Scotland
+1643,Brora,Sutherland,Scotland
+1644,Helmsdale,Sutherland,Scotland
+1645,Wick,Caithness,Scotland
+1646,John o Groats,Caithness,Scotland
+1647,Thurso,Caithness,Scotland
+1648,Halkirk,Caithness,Scotland
+1649,Dunbeath,Caithness,Scotland
+1650,Kirkwall,Orkney,Scotland
+1651,Stromness,Orkney,Scotland
+1652,Finstown,Orkney,Scotland
+1653,Dounby,Orkney,Scotland
+1654,Lerwick,Shetland,Scotland
+1655,Dunrossness,Shetland,Scotland
+1656,Brae,Shetland,Scotland
+1657,Baltasound,Shetland,Scotland
+1658,Belfast,County Antrim,Ireland
+1659,Newtownabbey,County Antrim,Ireland
+1660,Ballyclare,County Antrim,Ireland
+1661,Antrim,County Antrim,Ireland
+1662,Lisburn,County Antrim,Ireland
+1663,Carrickfergus,County Antrim,Ireland
+1664,Whitehead,County Antrim,Ireland
+1665,Larne,County Antrim,Ireland
+1666,Randalstown,County Antrim,Ireland
+1667,Ballymena,County Antrim,Ireland
+1668,Ballycastle,County Antrim,Ireland
+1669,Ballymoney,County Antrim,Ireland
+1670,Portrush,County Antrim,Ireland
+1671,Dundonald,County Down,Ireland
+1672,Hollywood,County Down,Ireland
+1673,Bangor,County Down,Ireland
+1674,Donaghadee,County Down,Ireland
+1675,Newtownards,County Down,Ireland
+1676,Comber,County Down,Ireland
+1677,Carryduff,County Down,Ireland
+1678,Saintfield,County Down,Ireland
+1679,Ballynahinch,County Down,Ireland
+1680,Dromere,County Down,Ireland
+1681,Downpatrick,County Down,Ireland
+1682,Banbridge,County Down,Ireland
+1683,Newcastle,County Down,Ireland
+1684,Kilkeel,County Down,Ireland
+1685,Waringstown,County Down,Ireland
+1686,Armagh,County Armagh,Ireland
+1687,Portadown,County Armagh,Ireland
+1688,Craigavon,County Armagh,Ireland
+1689,Lurgan,County Armagh,Ireland
+1690,Newry,County Armagh,Ireland
+1691,Magherafelt,County Londonderry,Ireland
+1692,Maghera,County Londonderry,Ireland
+1693,Coleraine,County Londonderry,Ireland
+1694,Limavady,County Londonderry,Ireland
+1695,Londonderry,County Londonderry,Ireland
+1696,Dungiven,County Londonderry,Ireland
+1697,Portstewart,County Londonderry,Ireland
+1698,Moneymore,County Londonderry,Ireland
+1699,Ballyronan,County Londonderry,Ireland
+1700,Coalisland,County Tyrone,Ireland
+1701,Cookstown,County Tyrone,Ireland
+1702,Dungannon,County Tyrone,Ireland
+1703,Omagh,County Tyrone,Ireland
+1704,Strabane,County Tyrone,Ireland
+1705,Enniskillen,County Fermanagh,Ireland
+1706,Irvinestown,County Fermanagh,Ireland
+1707,Lisnaskea,County Fermanagh,Ireland
+1708,Bundoran,County Donegal,Ireland
+1709,Ballyshannon,County Donegal,Ireland
+1710,Donegal,County Donegal,Ireland
+1711,Killybegs,County Donegal,Ireland
+1712,Ardara,County Donegal,Ireland
+1713,Ballybofey,County Donegal,Ireland
+1714,Stranorlar,County Donegal,Ireland
+1715,Castlefin,County Donegal,Ireland
+1716,Lifford,County Donegal,Ireland
+1717,Letterkenny,County Donegal,Ireland
+1718,Dungloe,County Donegal,Ireland
+1719,Falcarragh,County Donegal,Ireland
+1720,Dunfanaghy,County Donegal,Ireland
+1721,Milford,County Donegal,Ireland
+1722,Ramelton,County Donegal,Ireland
+1723,Buncrana,County Donegal,Ireland
+1724,Raphoe,County Donegal,Ireland
+1725,Carndonagh,County Donegal,Ireland
+1726,Moville,County Donegal,Ireland
+1727,Monaghan,County Monaghan,Ireland
+1728,Clones,County Monaghan,Ireland
+1729,Ballybay,County Monaghan,Ireland
+1730,Castleblayney,County Monaghan,Ireland
+1731,Carrickmacross,County Monaghan,Ireland
+1732,Kingscourt,County Cavan,Ireland
+1733,Bailieborough,County Cavan,Ireland
+1734,Ballyjamesduff,County Cavan,Ireland
+1735,Virginia,County Cavan,Ireland
+1736,Cavan,County Cavan,Ireland
+1737,Belturbet,County Cavan,Ireland
+1738,Shercock,County Cavan,Ireland
+1739,Cootehill,County Cavan,Ireland
+1740,Ballyconnell,County Cavan,Ireland
+1741,Carlingford,County Louth,Ireland
+1742,Greenore,County Louth,Ireland
+1743,Dundalk,County Louth,Ireland
+1744,Dunleer,County Louth,Ireland
+1745,Ardee,County Louth,Ireland
+1746,Drogheda,County Louth,Ireland
+1747,Trim,County Meath,Ireland
+1748,Navan,County Meath,Ireland
+1749,Kells,County Meath,Ireland
+1750,Oldcastle,County Meath,Ireland
+1751,Athboy,County Meath,Ireland
+1752,Dunshaughlin,County Meath,Ireland
+1753,Ratoath,County Meath,Ireland
+1754,Ashbourne,County Meath,Ireland
+1755,Dunboyne,County Meath,Ireland
+1756,Enfield,County Meath,Ireland
+1757,Bettystown,County Meath,Ireland
+1758,Mullingar,County Westmeath,Ireland
+1759,Kilbeggan,County Westmeath,Ireland
+1760,Moate,County Westmeath,Ireland
+1761,Athlone,County Westmeath,Ireland
+1762,Kinnegad,County Westmeath,Ireland
+1763,Castlepollard,County Westmeath,Ireland
+1764,Delvin,County Westmeath,Ireland
+1765,Edenderry,King's County,Ireland
+1766,Tullamore,King's County,Ireland
+1767,Killcormac,King's County,Ireland
+1768,Ferbane,King's County,Ireland
+1769,Cloghan,King's County,Ireland
+1770,Clara,King's County,Ireland
+1771,Birr,King's County,Ireland
+1772,Banagher,King's County,Ireland
+1773,Portarlington,Queen's County,Ireland
+1774,Mountmerrick,Queen's County,Ireland
+1775,Mountrath,Queen's County,Ireland
+1776,Port Laoise,Queen's County,Ireland
+1777,Stradbally,Queen's County,Ireland
+1778,Abbeyleix,Queen's County,Ireland
+1779,Rathdowney,Queen's County,Ireland
+1780,Kilcock,County Kildare,Ireland
+1781,Maynooth,County Kildare,Ireland
+1782,Celbridge,County Kildare,Ireland
+1783,Clane,County Kildare,Ireland
+1784,Prosperous,County Kildare,Ireland
+1785,Sallins,County Kildare,Ireland
+1786,Naas,County Kildare,Ireland
+1787,Newbridge,County Kildare,Ireland
+1788,Kildare,County Kildare,Ireland
+1789,Monasterevin,County Kildare,Ireland
+1790,Kilcullen,County Kildare,Ireland
+1791,Castledermot,County Kildare,Ireland
+1792,Athy,County Kildare,Ireland
+1793,Leixlip,County Kildare,Ireland
+1794,Balbriggan,County Dublin,Ireland
+1795,Swords,County Dublin,Ireland
+1796,Lusk,County Dublin,Ireland
+1797,Rush,County Dublin,Ireland
+1798,Donabate,County Dublin,Ireland
+1799,Malahide,County Dublin,Ireland
+1800,Howth,County Dublin,Ireland
+1801,Dublin,County Dublin,Ireland
+1802,Blanchardtown,County Dublin,Ireland
+1803,Lucan,County Dublin,Ireland
+1804,Clondalkin,County Dublin,Ireland
+1805,Tallaght,County Dublin,Ireland
+1806,Dundrum,County Dublin,Ireland
+1807,Dunleary,County Dublin,Ireland
+1808,Ballymore Eustace,County Dublin,Ireland
+1809,Bray,County Wicklow,Ireland
+1810,Greystones,County Wicklow,Ireland
+1811,Blessington,County Wicklow,Ireland
+1812,Baltinglass,County Wicklow,Ireland
+1813,Rathdrum,County Wicklow,Ireland
+1814,Wicklow,County Wicklow,Ireland
+1815,Aughrim,County Wicklow,Ireland
+1816,Arklow,County Wicklow,Ireland
+1817,Tinahely,County Wicklow,Ireland
+1818,Carlow,County Carlow,Ireland
+1819,Tullow,County Carlow,Ireland
+1820,Bagenalstown,County Carlow,Ireland
+1821,Gorey,County Wexford,Ireland
+1822,Bunclody,County Wexford,Ireland
+1823,Enniscorthy,County Wexford,Ireland
+1824,Riverchapel,County Wexford,Ireland
+1825,Wexford,County Wexford,Ireland
+1826,New Ross,County Wexford,Ireland
+1827,Rosslare,County Wexford,Ireland
+1828,Castlecomer,County Kilkenny,Ireland
+1829,Kilkenny,County Kilkenny,Ireland
+1830,Urlingford,County Kilkenny,Ireland
+1831,Durrow,County Kilkenny,Ireland
+1832,Callan,County Kilkenny,Ireland
+1833,Thomastown,County Kilkenny,Ireland
+1834,Mullinavat,County Kilkenny,Ireland
+1835,Mooncoin,County Kilkenny,Ireland
+1836,Waterford,County Waterford,Ireland
+1837,Tramore,County Waterford,Ireland
+1838,Portlaw,County Waterford,Ireland
+1839,Kilmacthomas,County Waterford,Ireland
+1840,Dungarvan,County Waterford,Ireland
+1841,Cappoquin,County Waterford,Ireland
+1842,Lismore,County Waterford,Ireland
+1843,Tallow,County Waterford,Ireland
+1844,Clonmel,County Tipperary,Ireland
+1845,Tipperary,County Tipperary,Ireland
+1846,Cashel,County Tipperary,Ireland
+1847,Thurles,County Tipperary,Ireland
+1848,Killenaule,County Tipperary,Ireland
+1849,Fethard,County Tipperary,Ireland
+1850,Templemore,County Tipperary,Ireland
+1851,Nenagh,County Tipperary,Ireland
+1852,Cloughjordan,County Tipperary,Ireland
+1853,Roscrea,County Tipperary,Ireland
+1854,Borrisokane,County Tipperary,Ireland
+1855,Ballina,County Tipperary,Ireland
+1856,Cork,County Cork,Ireland
+1857,Carrigaline,County Cork,Ireland
+1858,Ballincollig,County Cork,Ireland
+1859,Blarney,County Cork,Ireland
+1860,Glanmire,County Cork,Ireland
+1861,Carrigtwohill,County Cork,Ireland
+1862,Midleton,County Cork,Ireland
+1863,Cloyne,County Cork,Ireland
+1864,Watergrasshill,County Cork,Ireland
+1865,Kinsale,County Cork,Ireland
+1866,Cobh,County Cork,Ireland
+1867,Kanturk,County Cork,Ireland
+1868,Newmarket,County Cork,Ireland
+1869,Ballydesmond,County Cork,Ireland
+1870,Banteer,County Cork,Ireland
+1871,Mallow,County Cork,Ireland
+1872,Buttevant,County Cork,Ireland
+1873,Charleville,County Cork,Ireland
+1874,Mitchelstown,County Cork,Ireland
+1875,Fermoy,County Cork,Ireland
+1876,Milstreet,County Cork,Ireland
+1877,Macroom,County Cork,Ireland
+1878,Bandon,County Cork,Ireland
+1879,Dunmanway,County Cork,Ireland
+1880,Clonakilty,County Cork,Ireland
+1881,Skibbereen,County Cork,Ireland
+1882,Bantry,County Cork,Ireland
+1883,Castletownbere,County Cork,Ireland
+1884,Waterville,County Kerry,Ireland
+1885,Cahersiveen,County Kerry,Ireland
+1886,Kenmare,County Kerry,Ireland
+1887,Killarney,County Kerry,Ireland
+1888,Killorglin,County Kerry,Ireland
+1889,Dingle,County Kerry,Ireland
+1890,Tralee,County Kerry,Ireland
+1891,Milltown,County Kerry,Ireland
+1892,Castlemaine,County Kerry,Ireland
+1893,Castleisland,County Kerry,Ireland
+1894,Listowel,County Kerry,Ireland
+1895,Abbeyfeale,County Limerick,Ireland
+1896,Newcastle West,County Limerick,Ireland
+1897,Foynes,County Limerick,Ireland
+1898,Askeaton,County Limerick,Ireland
+1899,Rathkeale,County Limerick,Ireland
+1900,Croom,County Limerick,Ireland
+1901,Kilmallock,County Limerick,Ireland
+1902,Limerick,County Limerick,Ireland
+1903,Annacotty,County Limerick,Ireland
+1904,Dooradoyle,County Limerick,Ireland
+1905,Adare,County Limerick,Ireland
+1906,Kilkee,County Clare,Ireland
+1907,Kilrush,County Clare,Ireland
+1908,Enniscorthy,County Clare,Ireland
+1909,Newmarket on Fergus,County Clare,Ireland
+1910,Shannon,County Clare,Ireland
+1911,Ennistymon,County Clare,Ireland
+1912,Lisdoonvarna,County Clare,Ireland
+1913,Gort,County Galway,Ireland
+1914,Loughrea,County Galway,Ireland
+1915,Ballinasloe,County Galway,Ireland
+1916,Athenry,County Galway,Ireland
+1917,Oranmore,County Galway,Ireland
+1918,Galway,County Galway,Ireland
+1919,Tuam,County Galway,Ireland
+1920,Headford,County Galway,Ireland
+1921,Mountbellew,County Galway,Ireland
+1922,Oughterard,County Galway,Ireland
+1923,Clifden,County Galway,Ireland
+1924,Louisburgh,County Mayo,Ireland
+1925,Westport,County Mayo,Ireland
+1926,Castlebar,County Mayo,Ireland
+1927,Kiltimagh,County Mayo,Ireland
+1928,Knock,County Mayo,Ireland
+1929,Claremorris,County Mayo,Ireland
+1930,Ballyhaunis,County Mayo,Ireland
+1931,Ballinrobe,County Mayo,Ireland
+1932,Ballaghaderreen,County Mayo,Ireland
+1933,Swinford,County Mayo,Ireland
+1934,Foxford,County Mayo,Ireland
+1935,Newport,County Mayo,Ireland
+1936,Ballina,County Mayo,Ireland
+1937,Crossmolina,County Mayo,Ireland
+1938,Belmullet,County Mayo,Ireland
+1939,Collooney,County Sligo,Ireland
+1940,Sligo,County Sligo,Ireland
+1941,Enniscrone,County Sligo,Ireland
+1942,Tobercurry,County Sligo,Ireland
+1943,Ballymote,County Sligo,Ireland
+1944,Manorhamilton,County Leitrim,Ireland
+1945,Carrick on Shannon,County Leitrim,Ireland
+1946,Mohill,County Leitrim,Ireland
+1947,Drumshanbo,County Leitrim,Ireland
+1948,Ballinamore,County Leitrim,Ireland
+1949,Leitrim,County Leitrim,Ireland
+1950,Longford,County Longford,Ireland
+1951,Edgeworthstown,County Longford,Ireland
+1952,Granard,County Longford,Ireland
+1953,Newtonforbes,County Longford,Ireland
+1954,Ballymahon,County Longford,Ireland
+1955,Lanesborough,County Longford,Ireland
+1956,Roscommon,County Roscommon,Ireland
+1957,Castlerea,County Roscommon,Ireland
+1958,Strokestown,County Roscommon,Ireland
+1959,Elphin,County Roscommon,Ireland
+1960,Boyle,County Roscommon,Ireland
+1961,Castletown,Isle of Man,Mann
+1962,Douglas,Isle of Man,Mann
+1963,Ramsey,Isle of Man,Mann
+1964,Port Erin,Isle of Man,Mann
+1965,Ballasalla,Isle of Man,Mann
+1966,Peel,Isle of Man,Mann
+1967,Port St Mary,Isle of Man,Mann
+1968,St Brelade,Jersey,Channel Islands
+1969,St Helier,Jersey,Channel Islands
+1970,St Saviour,Jersey,Channel Islands
+1971,St Peter Port,Guernsey,Channel Islands
+1972,St Anne,Guernsey,Channel Islands
+1973,The Bridge,Guernsey,Channel Islands
+1974,Sark,Guernsey,Channel Islands
