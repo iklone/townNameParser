@@ -2,3 +2,4 @@ node_modules/
 
 /password.config
 package-lock.json
+*.csv

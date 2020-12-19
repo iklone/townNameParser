@@ -1,11 +1,13 @@
 var fs = require('fs');
 
-const inFile = "input.csv"
+const inFile = "coords.csv"
 
 const ID = 0;
 const NAME = 1;
 const COUNTY = 2;
 const NATION = 3;
+const LAT = 4;
+const LNG = 5;
 
 const SUFFIX = 0;
 const PREFIX = 1;
@@ -19,6 +21,22 @@ function printTowns(list) {
         out = town[NAME] + ", " + town[COUNTY];
         console.log(out);
     }
+}
+
+//export to csv
+function exportCSV(list, filename) {
+    csv = "Name,Latitude,Longitude\n";
+
+    for (town in list) {
+        townObj = list[town];
+        townString = townObj[NAME] + "," + townObj[LAT] + "," + townObj[LNG] + "\n";
+        csv = csv + townString;
+    }
+    csv = csv.substr(0, csv.length - 1);
+
+    fs.writeFile(filename + ".csv", csv, function (err) {
+        if (err) throw err;
+    });
 }
 
 //test for rule
@@ -108,8 +126,9 @@ function bulk(list, ruleset, name) {
         }
     }
 
-    console.log(name.toUpperCase() + ":\n");
-    printTowns(out);
+    console.log("\n" + name.toUpperCase() + ":\n");
+    //printTowns(out);
+    exportCSV(out, name);
 }
 
 //get town list from csv file
@@ -127,10 +146,25 @@ function getList(filename) {
             list.push(newEntry);
         }
 
-        //basic(list);
+        //Roman
+        ruleset = ["-chester", "-cester", "-caster", "-xeter", "chester", "magna"];
+        bulk(list, ruleset, "Roman");
 
-        ruleset = ["-ham", "-hurst", "-ley", "-bury", "-ford", "-port", "-mere", "-stead", "-ton", "-stow", "-wick", "-wich", "-mere"];
+        //Anglo Saxon
+        ruleset = ["-ham", "-hurst", "-ley", "leigh", "lea", "-bury", "-borough", "-burgh", "-brough", "-ford", "-port", "-mere", "-stead", "-ton", "-tun", "-stow", "-wick", "-wich", "-mere", "ac-", "-ock", "ash-", "ast-", "bex-", "-bourn-", "-burn", "-chip-", "-den", "-dean", "-field", "-forth", "hay-", "-hurst", "-minster", "-mouth", "-pool", "shep-", "stan-", "swin-"];
         bulk(list, ruleset, "Anglo-Saxon");
+
+        //Norse
+        ruleset = ["-by", "-bie", "-thorpe", "kirk", "-thwaite", "-thorp", "-firth-", "-gate", "-kirk-"];
+        bulk(list, ruleset, "Norse");
+
+        //Celtic
+        ruleset = ["aber-", "-avon-", "-afon-", "auch-", "bal-", "ban-", "blen-", "bre-", "-card-", "-combe", "-coed-", "-cot", "cwm-", "cum-", "drum-", "d(u|o)(n|m)-", "dub-", "-glen-", "inver-", "kil-", "-lyn-", "-more", "pe(n|m)-", "p(o|w)l-", "tre-"];
+        bulk(list, ruleset, "Celtic");
+
+        //Holy
+        ruleset = ["st", "bishop-", "saint", "don-", "-minster", "-lan-", "-kirk", "kil-", "ecc-", "egl-"];
+        bulk(list, ruleset, "Holy");
     });
 }
 
